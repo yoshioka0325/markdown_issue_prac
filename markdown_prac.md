@@ -48,7 +48,8 @@
 # リンク
 ウェブ関連技術の標準化は [World Wide Web Consortium (W3C)](http://www.w3.org/) などによって行われています。
 
-[むじざわあおいはかす！](images/muji.jpg)
+# 画像リンク
+![むじざわあおいはかす！](images/muji.jpg)
 
 # 調教
 サンシャイン*水族館*さいこう～
@@ -60,4 +61,12 @@ public static boid main(string []){
     system.out.println("Hello mujimujimujimuji")
 }
 ~~~
- 
+
+# 水平線
+***
+
+# 表
+|見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |
